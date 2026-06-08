@@ -1,11 +1,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Maria%20%20Tagomori&section=header&reversal=false&textBg=false&fontColor=FFFFFF&desc=Desenvolvedora%20de%20Software&descAlign=35&animation=fadeIn)
 
-### Sobre mim
-
-- 💻 Sou uma desenvolvedora FullStack!
-- 🔭 Sou apaixonada por astronomia.
-- 📖 Gosto muito de ler, principalmente filosofia.
 
 ### Formação Academica
 - Técnico em Desenvolvimento de Sistemas - Etec Carmine Biagio Tundisi (2021 - 2023)
