@@ -60,6 +60,7 @@ maria@dev:~$ ./trajetoria.sh --verbose
 
 <br>
 
+<!-- Esta cobrinha só aparece depois que você adicionar o workflow snk.yml no seu repo (veja instruções abaixo) --> <div align="center"> <img src="https://raw.githubusercontent.com/MariaTagomori/MariaTagomori/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </div> <br>
 </div>
 
 <br>
@@ -67,7 +68,6 @@ maria@dev:~$ ./trajetoria.sh --verbose
 <div align="center">
 </div>
 
-<br>
 <div align="center">
 
 
