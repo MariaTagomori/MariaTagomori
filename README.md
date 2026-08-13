@@ -11,7 +11,7 @@
 
 ### `> whoami`
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Engenheira+de+Software;Python+%7C+Angular+%7C+JavaScript;Building+things+that+dont+break+%28mostly%29;sudo+make+me+a+sandwich" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+Sistemas;Python+%7C+Angular+%7C+JavaScript;Building+things+that+dont+break+%28mostly%29;sudo+make+me+a+sandwich" alt="Typing SVG" />
 
 </div>
 
